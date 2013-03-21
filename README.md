@@ -1,4 +1,4 @@
 massive-octo-robot
 ==================
 
-Me and Steven work on stuff.
+Steven and I work on stuff.
